@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WildEgor
-- 👀 I’m interested in Industrial Automation & PLCs
+- 👀 I’m interested in: Industrial Automation & PLCs, modern web dev (React, typescript)
 
 <!---
   WildEgor/WildEgor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
