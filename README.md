@@ -1,4 +1,4 @@
-<h1 align="center">Hi there. My name is Egor </h1>
+<h1 align="center">WildEgor! — Hello there!</h1>
 
 <h4 align="center">
   Contacts
