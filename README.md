@@ -6,11 +6,10 @@
  <a href="https://www.linkedin.com/in/kartashov-egor/" target="_blank" style="text-decoration: none">	
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
-  <a href="https://t.me/wildegor" target="_blank" style="text-decoration: none">	
+ <a href="https://t.me/wildegor" target="_blank" style="text-decoration: none">	
   <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />
  </a>
 </p>
-<br/>
 <br/>
 <h4 align="center">
   Аll professional skills	
@@ -21,7 +20,7 @@
     <td>
       <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
       <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-29A0DD?style=flat&logo=TypeScript&logoColor=white" />
-      <img alt="IEC 61131-3" src="https://img.shields.io/badge/-PLC-29A0DD?style=flat&logo=Siemens&logoColor=white&color=black" />
+      <img alt="IEC61131-3" src="https://img.shields.io/badge/-PLC-29A0DD?style=flat&logo=Siemens&logoColor=white&color=black" />
     </td>
   </tr>
   <tr>
