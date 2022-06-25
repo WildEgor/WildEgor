@@ -12,7 +12,7 @@
 </p>
 <br/>
 <h4 align="center">
-  Аll professional skills	
+  Аll professional skills	(also includes "need to know")
 </h4>
 <table>
   <tr>
@@ -21,6 +21,10 @@
       <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
       <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-29A0DD?style=flat&logo=TypeScript&logoColor=white" />
       <img alt="IEC61131-3" src="https://img.shields.io/badge/-PLC-29A0DD?style=flat&logo=Siemens&logoColor=white&color=black" />
+      <td>
+        <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+        <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+      </td>
     </td>
   </tr>
   <tr>
@@ -29,6 +33,9 @@
       <img alt="NestJS" src="https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=NestJS&logoColor=white" />
       <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white" />
       <img alt="NextJS" src="https://img.shields.io/badge/-Next.js-00DC82?style=flat&logo=Next.js&logoColor=white" />
+      <td>
+        <img alt="ASP.NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+      </td>
     </td>
   </tr>
   <tr>
@@ -81,6 +88,10 @@
       <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku&logoColor=white"/>
       <img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?style=flat&logo=Github Actions&logoColor=white"/>
       <img alt="Github Pages" src="https://img.shields.io/badge/-Github Pages-222222?style=flat&logo=Github Pages&logoColor=white"/>
+      <td>
+        <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      </td>
     </td>
   </tr>
   <tr>
@@ -142,4 +153,4 @@
  <a href="#" alt="WildEgor GitHub stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildegor&theme=gruvbox&hide_border=true" height="200"/>
  </a>
-</p>
+</p>   
